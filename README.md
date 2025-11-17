@@ -6,4 +6,6 @@ I have professional experience in creating FastAPI Python APIs and Services, but
 
 Please understand, I do these practice Python programs in this repository to maintain my muscle memory in computer programming.
 
+The code within this repo may not be used to judge my actual skillset and / or use of design patterns.
+
 ## Thank you!
