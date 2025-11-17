@@ -8,4 +8,4 @@ Please understand, I do these practice Python programs in this repository to mai
 
 The code within this repo should not be used to judge my actual skillset and / or use of design patterns.
 
-## Thank you!
+### Thank you!
